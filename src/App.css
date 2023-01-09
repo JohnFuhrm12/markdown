@@ -56,5 +56,8 @@ html, body {
 }
 
 #preview img{
-  max-width: 45%;
+  max-width: 35%;
+  border: solid 2px black;
+  padding: 2px;
+  background-color: black;
 }

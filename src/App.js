@@ -35,7 +35,7 @@ function App() {
   1. Use just 1s if you want!
   1. And last but not least, let's not forget embedded images:
   
-  ![freeCodeCamp Logo](https://cdn.freecodecamp.org/testable-projects-fcc/images/fcc_secondary.svg)`;
+  ![image](https://res.cloudinary.com/dvmw658s9/image/upload/v1673226308/Portfolio/akxqcneh4mjpd3peo6pm.jpg)`;
 
   const [text, setText] = useState(initialText);
   const [markdown, setMarkdown] = useState('');
