@@ -1,8 +1,9 @@
 html, body {
   margin: 0;
   background-color: bisque;
+  overflow-x: hidden;
 }
-
+ 
 .container {
   display: flex;
   flex-direction: column;
@@ -51,4 +52,9 @@ html, body {
   background-color: rgb(253, 210, 158);
   border-radius: 3px;
   box-shadow: 10px 12px #575757;
+  text-align: left;
+}
+
+#preview img{
+  max-width: 45%;
 }
